@@ -1,7 +1,5 @@
 # 🐍 Resumo: Introdução e Conceitos Iniciais de Python
 
-![GIF de um gatinho digitando freneticamente no computador](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
 ## 1. O que é o Python e sua História 📜
 * **O que é:** Python é uma linguagem de alto nível, interpretada, multiplataforma e de propósito geral. Ela é reconhecida pela sua simplicidade, legibilidade e alta produtividade. 🚀
 * **História:** Foi criada por Guido van Rossum no final da década de 1980, tendo sua versão 0.9.0 lançada em 1991. 🕰️ O nome da linguagem não vem do réptil, mas sim de uma homenagem ao grupo humorístico britânico *Monty Python*. 🎬
